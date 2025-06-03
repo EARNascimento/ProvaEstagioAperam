@@ -12,4 +12,14 @@ public abstract class BaseController
     {
         Console.WriteLine("BaseController instanciado");
     }
+
+    protected string ObterMensagemSucesso(string mensagem)
+    {
+        return $"Sucesso: {mensagem}";
+    }
+
+    protected string ObterMensagemErro(string mensagem)
+    {
+        return $"Erro: {mensagem}";
+    }
 }
