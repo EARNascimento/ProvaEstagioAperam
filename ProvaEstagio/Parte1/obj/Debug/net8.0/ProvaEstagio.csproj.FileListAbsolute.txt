@@ -1,0 +1,15 @@
+D:\Programação\Aperam\Estágio Aperam\ProvaEstagio\Parte1\bin\Debug\net8.0\ProvaEstagio.exe
+D:\Programação\Aperam\Estágio Aperam\ProvaEstagio\Parte1\bin\Debug\net8.0\ProvaEstagio.deps.json
+D:\Programação\Aperam\Estágio Aperam\ProvaEstagio\Parte1\bin\Debug\net8.0\ProvaEstagio.runtimeconfig.json
+D:\Programação\Aperam\Estágio Aperam\ProvaEstagio\Parte1\bin\Debug\net8.0\ProvaEstagio.dll
+D:\Programação\Aperam\Estágio Aperam\ProvaEstagio\Parte1\bin\Debug\net8.0\ProvaEstagio.pdb
+D:\Programação\Aperam\Estágio Aperam\ProvaEstagio\Parte1\obj\Debug\net8.0\ProvaEstagio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\Aperam\Estágio Aperam\ProvaEstagio\Parte1\obj\Debug\net8.0\ProvaEstagio.AssemblyInfoInputs.cache
+D:\Programação\Aperam\Estágio Aperam\ProvaEstagio\Parte1\obj\Debug\net8.0\ProvaEstagio.AssemblyInfo.cs
+D:\Programação\Aperam\Estágio Aperam\ProvaEstagio\Parte1\obj\Debug\net8.0\ProvaEstagio.csproj.CoreCompileInputs.cache
+D:\Programação\Aperam\Estágio Aperam\ProvaEstagio\Parte1\obj\Debug\net8.0\ProvaEstagio.sourcelink.json
+D:\Programação\Aperam\Estágio Aperam\ProvaEstagio\Parte1\obj\Debug\net8.0\ProvaEstagio.dll
+D:\Programação\Aperam\Estágio Aperam\ProvaEstagio\Parte1\obj\Debug\net8.0\refint\ProvaEstagio.dll
+D:\Programação\Aperam\Estágio Aperam\ProvaEstagio\Parte1\obj\Debug\net8.0\ProvaEstagio.pdb
+D:\Programação\Aperam\Estágio Aperam\ProvaEstagio\Parte1\obj\Debug\net8.0\ProvaEstagio.genruntimeconfig.cache
+D:\Programação\Aperam\Estágio Aperam\ProvaEstagio\Parte1\obj\Debug\net8.0\ref\ProvaEstagio.dll

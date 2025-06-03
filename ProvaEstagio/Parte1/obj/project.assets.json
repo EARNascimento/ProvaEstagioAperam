@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programação\\Aperam\\Estágio Aperam\\Parte1\\Parte1\\Parte1.csproj",
-      "projectName": "Parte1",
-      "projectPath": "D:\\Programação\\Aperam\\Estágio Aperam\\Parte1\\Parte1\\Parte1.csproj",
+      "projectUniqueName": "D:\\Programação\\Aperam\\Estágio Aperam\\ProvaEstagio\\Parte1\\ProvaEstagio.csproj",
+      "projectName": "ProvaEstagio",
+      "projectPath": "D:\\Programação\\Aperam\\Estágio Aperam\\ProvaEstagio\\Parte1\\ProvaEstagio.csproj",
       "packagesPath": "C:\\Users\\Eduar\\.nuget\\packages\\",
-      "outputPath": "D:\\Programação\\Aperam\\Estágio Aperam\\Parte1\\Parte1\\obj\\",
+      "outputPath": "D:\\Programação\\Aperam\\Estágio Aperam\\ProvaEstagio\\Parte1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
