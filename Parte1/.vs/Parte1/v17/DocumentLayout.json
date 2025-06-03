@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "D:\\Programa\u00E7\u00E3o\\Aperam\\Est\u00E1gio Aperam\\Parte1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EC9EB863-98B4-4957-ADD7-9E0484450C64}|Parte1\\Parte1.csproj|d:\\programa\u00E7\u00E3o\\aperam\\est\u00E1gio aperam\\parte1\\parte1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC9EB863-98B4-4957-ADD7-9E0484450C64}|Parte1\\Parte1.csproj|solutionrelative:parte1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC9EB863-98B4-4957-ADD7-9E0484450C64}|Parte1\\Parte1.csproj|d:\\programa\u00E7\u00E3o\\aperam\\est\u00E1gio aperam\\parte1\\parte1\\parte1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{EC9EB863-98B4-4957-ADD7-9E0484450C64}|Parte1\\Parte1.csproj|solutionrelative:parte1\\parte1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC9EB863-98B4-4957-ADD7-9E0484450C64}|Parte1\\Parte1.csproj|d:\\programa\u00E7\u00E3o\\aperam\\est\u00E1gio aperam\\parte1\\parte1\\util\\usuariologado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC9EB863-98B4-4957-ADD7-9E0484450C64}|Parte1\\Parte1.csproj|solutionrelative:parte1\\util\\usuariologado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC9EB863-98B4-4957-ADD7-9E0484450C64}|Parte1\\Parte1.csproj|d:\\programa\u00E7\u00E3o\\aperam\\est\u00E1gio aperam\\parte1\\parte1\\models\\produtoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC9EB863-98B4-4957-ADD7-9E0484450C64}|Parte1\\Parte1.csproj|solutionrelative:parte1\\models\\produtoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC9EB863-98B4-4957-ADD7-9E0484450C64}|Parte1\\Parte1.csproj|d:\\programa\u00E7\u00E3o\\aperam\\est\u00E1gio aperam\\parte1\\parte1\\services\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC9EB863-98B4-4957-ADD7-9E0484450C64}|Parte1\\Parte1.csproj|solutionrelative:parte1\\services\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EC9EB863-98B4-4957-ADD7-9E0484450C64}|Parte1\\Parte1.csproj|d:\\programa\u00E7\u00E3o\\aperam\\est\u00E1gio aperam\\parte1\\parte1\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC9EB863-98B4-4957-ADD7-9E0484450C64}|Parte1\\Parte1.csproj|solutionrelative:parte1\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EC9EB863-98B4-4957-ADD7-9E0484450C64}|Parte1\\Parte1.csproj|d:\\programa\u00E7\u00E3o\\aperam\\est\u00E1gio aperam\\parte1\\parte1\\base\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC9EB863-98B4-4957-ADD7-9E0484450C64}|Parte1\\Parte1.csproj|solutionrelative:parte1\\base\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9EB863-98B4-4957-ADD7-9E0484450C64}|Parte1\\Parte1.csproj|d:\\programa\u00E7\u00E3o\\aperam\\est\u00E1gio aperam\\parte1\\parte1\\services\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC9EB863-98B4-4957-ADD7-9E0484450C64}|Parte1\\Parte1.csproj|solutionrelative:parte1\\services\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9EB863-98B4-4957-ADD7-9E0484450C64}|Parte1\\Parte1.csproj|d:\\programa\u00E7\u00E3o\\aperam\\est\u00E1gio aperam\\parte1\\parte1\\parte1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EC9EB863-98B4-4957-ADD7-9E0484450C64}|Parte1\\Parte1.csproj|solutionrelative:parte1\\parte1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9EB863-98B4-4957-ADD7-9E0484450C64}|Parte1\\Parte1.csproj|d:\\programa\u00E7\u00E3o\\aperam\\est\u00E1gio aperam\\parte1\\parte1\\models\\produtoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC9EB863-98B4-4957-ADD7-9E0484450C64}|Parte1\\Parte1.csproj|solutionrelative:parte1\\models\\produtoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9EB863-98B4-4957-ADD7-9E0484450C64}|Parte1\\Parte1.csproj|d:\\programa\u00E7\u00E3o\\aperam\\est\u00E1gio aperam\\parte1\\parte1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC9EB863-98B4-4957-ADD7-9E0484450C64}|Parte1\\Parte1.csproj|solutionrelative:parte1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9EB863-98B4-4957-ADD7-9E0484450C64}|Parte1\\Parte1.csproj|d:\\programa\u00E7\u00E3o\\aperam\\est\u00E1gio aperam\\parte1\\parte1\\util\\usuariologado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC9EB863-98B4-4957-ADD7-9E0484450C64}|Parte1\\Parte1.csproj|solutionrelative:parte1\\util\\usuariologado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "UsuarioLogado.cs",
               "DocumentMoniker": "D:\\Programa\u00E7\u00E3o\\Aperam\\Est\u00E1gio Aperam\\Parte1\\Parte1\\Util\\UsuarioLogado.cs",
               "RelativeDocumentMoniker": "Parte1\\Util\\UsuarioLogado.cs",
@@ -55,8 +55,8 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Parte1",
+              "DocumentIndex": 3,
+              "Title": "Parte1.csproj",
               "DocumentMoniker": "D:\\Programa\u00E7\u00E3o\\Aperam\\Est\u00E1gio Aperam\\Parte1\\Parte1\\Parte1.csproj",
               "RelativeDocumentMoniker": "Parte1\\Parte1.csproj",
               "ToolTip": "D:\\Programa\u00E7\u00E3o\\Aperam\\Est\u00E1gio Aperam\\Parte1\\Parte1\\Parte1.csproj",
@@ -68,65 +68,65 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Programa\u00E7\u00E3o\\Aperam\\Est\u00E1gio Aperam\\Parte1\\Parte1\\Program.cs",
               "RelativeDocumentMoniker": "Parte1\\Program.cs",
               "ToolTip": "D:\\Programa\u00E7\u00E3o\\Aperam\\Est\u00E1gio Aperam\\Parte1\\Parte1\\Program.cs",
               "RelativeToolTip": "Parte1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-02T20:45:43.644Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ProdutoViewModel.cs",
               "DocumentMoniker": "D:\\Programa\u00E7\u00E3o\\Aperam\\Est\u00E1gio Aperam\\Parte1\\Parte1\\Models\\ProdutoViewModel.cs",
               "RelativeDocumentMoniker": "Parte1\\Models\\ProdutoViewModel.cs",
               "ToolTip": "D:\\Programa\u00E7\u00E3o\\Aperam\\Est\u00E1gio Aperam\\Parte1\\Parte1\\Models\\ProdutoViewModel.cs",
               "RelativeToolTip": "Parte1\\Models\\ProdutoViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-02T20:44:41.083Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "ProdutoService.cs",
               "DocumentMoniker": "D:\\Programa\u00E7\u00E3o\\Aperam\\Est\u00E1gio Aperam\\Parte1\\Parte1\\Services\\ProdutoService.cs",
               "RelativeDocumentMoniker": "Parte1\\Services\\ProdutoService.cs",
               "ToolTip": "D:\\Programa\u00E7\u00E3o\\Aperam\\Est\u00E1gio Aperam\\Parte1\\Parte1\\Services\\ProdutoService.cs",
               "RelativeToolTip": "Parte1\\Services\\ProdutoService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-02T20:36:20.192Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "ProdutoController.cs",
               "DocumentMoniker": "D:\\Programa\u00E7\u00E3o\\Aperam\\Est\u00E1gio Aperam\\Parte1\\Parte1\\Controllers\\ProdutoController.cs",
               "RelativeDocumentMoniker": "Parte1\\Controllers\\ProdutoController.cs",
               "ToolTip": "D:\\Programa\u00E7\u00E3o\\Aperam\\Est\u00E1gio Aperam\\Parte1\\Parte1\\Controllers\\ProdutoController.cs",
               "RelativeToolTip": "Parte1\\Controllers\\ProdutoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwCwAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-02T20:30:41.729Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "BaseController.cs",
               "DocumentMoniker": "D:\\Programa\u00E7\u00E3o\\Aperam\\Est\u00E1gio Aperam\\Parte1\\Parte1\\Base\\BaseController.cs",
               "RelativeDocumentMoniker": "Parte1\\Base\\BaseController.cs",
               "ToolTip": "D:\\Programa\u00E7\u00E3o\\Aperam\\Est\u00E1gio Aperam\\Parte1\\Parte1\\Base\\BaseController.cs",
               "RelativeToolTip": "Parte1\\Base\\BaseController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-02T20:24:15.84Z",
               "EditorCaption": ""

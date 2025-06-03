@@ -42,7 +42,7 @@ public class ProdutoController : BaseController
             var resposta = new
             {
                 Sucesso = true,
-                Mensagem = ObterMensagemSucesso("Módulo inicializado com sucesso!"),
+                Mensagem = ObterMensagemSucesso("Modulo inicializado com sucesso!"),
                 Dados = new
                 {
                     Permissoes = new List<string> { "visualizar", "editar", "deletar" },

@@ -1,0 +1,15 @@
+D:\Programação\Aperam\Estágio Aperam\Parte1\Parte1\bin\Debug\net8.0\Parte1.exe
+D:\Programação\Aperam\Estágio Aperam\Parte1\Parte1\bin\Debug\net8.0\Parte1.deps.json
+D:\Programação\Aperam\Estágio Aperam\Parte1\Parte1\bin\Debug\net8.0\Parte1.runtimeconfig.json
+D:\Programação\Aperam\Estágio Aperam\Parte1\Parte1\bin\Debug\net8.0\Parte1.dll
+D:\Programação\Aperam\Estágio Aperam\Parte1\Parte1\bin\Debug\net8.0\Parte1.pdb
+D:\Programação\Aperam\Estágio Aperam\Parte1\Parte1\obj\Debug\net8.0\Parte1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\Aperam\Estágio Aperam\Parte1\Parte1\obj\Debug\net8.0\Parte1.AssemblyInfoInputs.cache
+D:\Programação\Aperam\Estágio Aperam\Parte1\Parte1\obj\Debug\net8.0\Parte1.AssemblyInfo.cs
+D:\Programação\Aperam\Estágio Aperam\Parte1\Parte1\obj\Debug\net8.0\Parte1.csproj.CoreCompileInputs.cache
+D:\Programação\Aperam\Estágio Aperam\Parte1\Parte1\obj\Debug\net8.0\Parte1.sourcelink.json
+D:\Programação\Aperam\Estágio Aperam\Parte1\Parte1\obj\Debug\net8.0\Parte1.dll
+D:\Programação\Aperam\Estágio Aperam\Parte1\Parte1\obj\Debug\net8.0\refint\Parte1.dll
+D:\Programação\Aperam\Estágio Aperam\Parte1\Parte1\obj\Debug\net8.0\Parte1.pdb
+D:\Programação\Aperam\Estágio Aperam\Parte1\Parte1\obj\Debug\net8.0\Parte1.genruntimeconfig.cache
+D:\Programação\Aperam\Estágio Aperam\Parte1\Parte1\obj\Debug\net8.0\ref\Parte1.dll
