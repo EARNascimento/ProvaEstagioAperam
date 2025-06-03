@@ -7,12 +7,20 @@
       "RelativeMoniker": "D:0:0:{EC9EB863-98B4-4957-ADD7-9E0484450C64}|Parte1\\Parte1.csproj|solutionrelative:parte1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC9EB863-98B4-4957-ADD7-9E0484450C64}|Parte1\\Parte1.csproj|d:\\programa\u00E7\u00E3o\\aperam\\est\u00E1gio aperam\\provaestagio\\parte1\\grids\\produtogrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC9EB863-98B4-4957-ADD7-9E0484450C64}|Parte1\\Parte1.csproj|solutionrelative:parte1\\grids\\produtogrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EC9EB863-98B4-4957-ADD7-9E0484450C64}|Parte1\\Parte1.csproj|d:\\programa\u00E7\u00E3o\\aperam\\est\u00E1gio aperam\\provaestagio\\parte1\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC9EB863-98B4-4957-ADD7-9E0484450C64}|Parte1\\Parte1.csproj|solutionrelative:parte1\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9EB863-98B4-4957-ADD7-9E0484450C64}|Parte1\\Parte1.csproj|d:\\programa\u00E7\u00E3o\\aperam\\est\u00E1gio aperam\\provaestagio\\parte1\\services\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC9EB863-98B4-4957-ADD7-9E0484450C64}|Parte1\\Parte1.csproj|solutionrelative:parte1\\services\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EC9EB863-98B4-4957-ADD7-9E0484450C64}|Parte1\\Parte1.csproj|d:\\programa\u00E7\u00E3o\\aperam\\est\u00E1gio aperam\\provaestagio\\parte1\\models\\produtoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC9EB863-98B4-4957-ADD7-9E0484450C64}|Parte1\\Parte1.csproj|solutionrelative:parte1\\models\\produtoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9EB863-98B4-4957-ADD7-9E0484450C64}|Parte1\\Parte1.csproj|d:\\programa\u00E7\u00E3o\\aperam\\est\u00E1gio aperam\\provaestagio\\parte1\\grids\\produtogrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC9EB863-98B4-4957-ADD7-9E0484450C64}|Parte1\\Parte1.csproj|solutionrelative:parte1\\grids\\produtogrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EC9EB863-98B4-4957-ADD7-9E0484450C64}|Parte1\\Parte1.csproj|d:\\programa\u00E7\u00E3o\\aperam\\est\u00E1gio aperam\\provaestagio\\parte1\\util\\usuariologado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,16 +31,8 @@
       "RelativeMoniker": "D:0:0:{EC9EB863-98B4-4957-ADD7-9E0484450C64}|Parte1\\ProvaEstagio.csproj|solutionrelative:parte1\\provaestagio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC9EB863-98B4-4957-ADD7-9E0484450C64}|Parte1\\Parte1.csproj|d:\\programa\u00E7\u00E3o\\aperam\\est\u00E1gio aperam\\provaestagio\\parte1\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC9EB863-98B4-4957-ADD7-9E0484450C64}|Parte1\\Parte1.csproj|solutionrelative:parte1\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EC9EB863-98B4-4957-ADD7-9E0484450C64}|Parte1\\Parte1.csproj|d:\\programa\u00E7\u00E3o\\aperam\\est\u00E1gio aperam\\provaestagio\\parte1\\base\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC9EB863-98B4-4957-ADD7-9E0484450C64}|Parte1\\Parte1.csproj|solutionrelative:parte1\\base\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC9EB863-98B4-4957-ADD7-9E0484450C64}|Parte1\\Parte1.csproj|d:\\programa\u00E7\u00E3o\\aperam\\est\u00E1gio aperam\\provaestagio\\parte1\\services\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC9EB863-98B4-4957-ADD7-9E0484450C64}|Parte1\\Parte1.csproj|solutionrelative:parte1\\services\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -52,7 +52,7 @@
               "RelativeDocumentMoniker": "Parte1\\Program.cs",
               "ToolTip": "D:\\Programa\u00E7\u00E3o\\Aperam\\Est\u00E1gio Aperam\\ProvaEstagio\\Parte1\\Program.cs",
               "RelativeToolTip": "Parte1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-02T20:45:43.644Z",
               "IsPinned": true,
@@ -60,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Parte1.csproj",
               "DocumentMoniker": "D:\\Programa\u00E7\u00E3o\\Aperam\\Est\u00E1gio Aperam\\ProvaEstagio\\Parte1\\ProvaEstagio.csproj",
               "RelativeDocumentMoniker": "Parte1\\ProvaEstagio.csproj",
@@ -74,20 +74,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "ProdutoGrid.cs",
               "DocumentMoniker": "D:\\Programa\u00E7\u00E3o\\Aperam\\Est\u00E1gio Aperam\\ProvaEstagio\\Parte1\\Grids\\ProdutoGrid.cs",
               "RelativeDocumentMoniker": "Parte1\\Grids\\ProdutoGrid.cs",
               "ToolTip": "D:\\Programa\u00E7\u00E3o\\Aperam\\Est\u00E1gio Aperam\\ProvaEstagio\\Parte1\\Grids\\ProdutoGrid.cs",
               "RelativeToolTip": "Parte1\\Grids\\ProdutoGrid.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-03T04:29:04.397Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "UsuarioLogado.cs",
               "DocumentMoniker": "D:\\Programa\u00E7\u00E3o\\Aperam\\Est\u00E1gio Aperam\\ProvaEstagio\\Parte1\\Util\\UsuarioLogado.cs",
               "RelativeDocumentMoniker": "Parte1\\Util\\UsuarioLogado.cs",
@@ -100,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ProdutoViewModel.cs",
               "DocumentMoniker": "D:\\Programa\u00E7\u00E3o\\Aperam\\Est\u00E1gio Aperam\\ProvaEstagio\\Parte1\\Models\\ProdutoViewModel.cs",
               "RelativeDocumentMoniker": "Parte1\\Models\\ProdutoViewModel.cs",
@@ -113,7 +113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "ProdutoService.cs",
               "DocumentMoniker": "D:\\Programa\u00E7\u00E3o\\Aperam\\Est\u00E1gio Aperam\\ProvaEstagio\\Parte1\\Services\\ProdutoService.cs",
               "RelativeDocumentMoniker": "Parte1\\Services\\ProdutoService.cs",
@@ -126,20 +126,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "ProdutoController.cs",
               "DocumentMoniker": "D:\\Programa\u00E7\u00E3o\\Aperam\\Est\u00E1gio Aperam\\ProvaEstagio\\Parte1\\Controllers\\ProdutoController.cs",
               "RelativeDocumentMoniker": "Parte1\\Controllers\\ProdutoController.cs",
               "ToolTip": "D:\\Programa\u00E7\u00E3o\\Aperam\\Est\u00E1gio Aperam\\ProvaEstagio\\Parte1\\Controllers\\ProdutoController.cs",
               "RelativeToolTip": "Parte1\\Controllers\\ProdutoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-02T20:30:41.729Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "BaseController.cs",
               "DocumentMoniker": "D:\\Programa\u00E7\u00E3o\\Aperam\\Est\u00E1gio Aperam\\ProvaEstagio\\Parte1\\Base\\BaseController.cs",
               "RelativeDocumentMoniker": "Parte1\\Base\\BaseController.cs",

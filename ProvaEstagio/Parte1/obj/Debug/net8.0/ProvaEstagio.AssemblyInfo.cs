@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProvaEstagio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4bf5f226f1084d1122e9ead5bae8386b06099d9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee3802083e33dbed5e5ed87a4c448842b7442984")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProvaEstagio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProvaEstagio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
